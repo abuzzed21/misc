@@ -1,0 +1,22 @@
+{
+  "ignition": {
+    "version": "3.1.0"
+  },
+  "passwd": {
+    "users": [
+      {
+        "groups": [
+          "wheel",
+          "plugdev"
+        ],
+        "homeDir": "/home/cubwhite",
+        "name": "cubwhite",
+        "noCreateHome": true,
+        "sshAuthorizedKeys": [
+          "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDrXcXVS4fNpMOSC7Jv51FOAHOvB10tb+5qPO0hs9173jnfJ0jUyigiA7p31HA1Q+rCh6ANxuM/Qky6FmnEdABsH6WTublls8SBelj8bC8UHWvsXcuWxQiTIz/vzYjWlerKtcsEIPJlebkCuIS7IT54i8TsF1L+5/5o3zuntdxB36Lnq8bAJ4h1tPT8ftqBoxVZsFm2LxVtrUpYPNAm8ShX8aElHa2bGcAhFfGLPjg8E6L+Dxvm62obmOGM3VThmtB4JXBjZBuLgOGeJBjq461QQCBJ7DKKkUshXT9AUV6FI7+VfiRQBeQGUXg6GE7kItgE2zFSg1+jcKGO8Lys5wJx cub@DESKTOP-DV9FC27"
+        ],
+        "shell": "/bin/bash"
+      }
+    ]
+  }
+}
